@@ -1,5 +1,5 @@
 # Neural-Networks
-Neural Networks written in Python
+Neural Networks written in Python:
 
 * To model and, or, xor gates
 * To handle higher dimensions
